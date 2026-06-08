@@ -31,8 +31,3 @@ python3 -m http.server 4173
 - `styles.css`: 반응형 스타일
 - `script.js`: 상단 이동 버튼과 앵커 스크롤
 - `assets/img/`: 프로젝트 및 프로필 이미지
-
-## 공개 저장소 주의
-
-현재 상위 작업 폴더에는 개인 문서, 발표 원본, ZIP 파일이 함께 있습니다.
-GitHub 공개 저장소에는 이 폴더 전체가 아니라 `seonghwan01.github.io` 폴더의 파일만 올려야 합니다.
